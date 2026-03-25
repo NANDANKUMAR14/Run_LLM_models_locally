@@ -291,5 +291,4 @@ You can connect these to:
 - n8n automation
 - Telegram bots
 
-This is the foundation for building your own AI assistant locally.
 
