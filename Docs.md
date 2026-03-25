@@ -20,7 +20,9 @@
 ---
 
 ## 1. Introduction
-This guide explains how to run Large Language Models (LLMs) locally on your computer using **Ollama** and **LM Studio**. Running LLMs locally allows you to build AI agents, chatbots, automation tools, and offline AI applications without paying for API usage.
+This guide explains how to run Large Language Models (LLMs) locally on your computer using **Ollama** and **LM Studio**.
+
+Running LLMs locally allows you to build AI agents, chatbots, automation tools, and offline AI applications without paying for API usage.
 
 ---
 
